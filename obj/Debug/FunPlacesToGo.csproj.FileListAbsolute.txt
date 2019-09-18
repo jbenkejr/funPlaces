@@ -1,0 +1,7 @@
+C:\Users\jbenk\Desktop\bootcamp2019\FunPlacesToGo\bin\Debug\FunPlacesToGo.exe.config
+C:\Users\jbenk\Desktop\bootcamp2019\FunPlacesToGo\bin\Debug\FunPlacesToGo.exe
+C:\Users\jbenk\Desktop\bootcamp2019\FunPlacesToGo\bin\Debug\FunPlacesToGo.pdb
+C:\Users\jbenk\Desktop\bootcamp2019\FunPlacesToGo\obj\Debug\FunPlacesToGo.csprojAssemblyReference.cache
+C:\Users\jbenk\Desktop\bootcamp2019\FunPlacesToGo\obj\Debug\FunPlacesToGo.csproj.CoreCompileInputs.cache
+C:\Users\jbenk\Desktop\bootcamp2019\FunPlacesToGo\obj\Debug\FunPlacesToGo.exe
+C:\Users\jbenk\Desktop\bootcamp2019\FunPlacesToGo\obj\Debug\FunPlacesToGo.pdb
